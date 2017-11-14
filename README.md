@@ -2,4 +2,4 @@
 test repo
 
 adding featureX
-adding feature 2
+adding feature 2 - subfeature a
